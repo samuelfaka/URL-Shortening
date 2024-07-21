@@ -901,7 +901,7 @@
     }
     .foot{
         background-color: black;
-        height: 100vh;
+        height: 120vh;
         color: white;
     }
     .foot1{
@@ -1002,7 +1002,7 @@
         align-items: center;
         justify-content: center;
         gap: 15px;
-        padding: 50px;
+        padding: 80px;
     }
     .hg1{
         height: 17vh;
