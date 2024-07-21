@@ -648,18 +648,18 @@
     }
     .bg1{
         font-weight: 800;
-        font-size: 30px;
+        font-size: 23px;
     }
     .bg2{
         font-weight: bold;
-        font-size: 18px;
+        font-size: 17px;
         color: darkgray;
-        width: 90vw;
+        width: 75vw;
         text-align: center;
     }
     .brand{
         font-weight: 800;
-        font-size: 25px;
+        font-size: 22px;
         width: 70vw;
         display: flex;
         flex-direction: column;
@@ -669,7 +669,7 @@
     .brand1{
         font-weight: bold;
         color: darkgray;
-        font-size: 19px;
+        font-size: 17px;
         width: 78vw;
         text-align: center;
     }
@@ -679,12 +679,12 @@
         align-items: center;
         justify-content: center;
         gap: 15px;
-        padding: 90px;
+        padding: 75px;
     }
     .brand3{
         background-color: white;
         width: 100vw;
-        height: 35vh;
+        height: 36vh;
     }
     .brand4{
         display: flex;
@@ -701,7 +701,7 @@
     .brand6{
         background-color: rgb(13, 5, 20);
         height: 9vh;
-        width: 21vw;
+        width: 20vw;
         border-radius: 100px;
         display: flex;
         flex-direction: column;
@@ -727,7 +727,7 @@
     }
     .gain{
         font-weight: 800;
-        font-size: 25px;
+        font-size: 22px;
         width: 70vw;
         display: flex;
         flex-direction: column;
@@ -736,7 +736,7 @@
     }
     .gain1{
         font-weight: bold;
-        font-size: 19px;
+        font-size: 17px;
         width: 75vw;
         text-align: center;
         color: darkgray;
@@ -747,7 +747,7 @@
         align-items: center;
         justify-content: center;
         gap: 15px;
-        padding: 90px;
+        padding: 75px;
     }
     .gain3{
         background-color: white;
@@ -757,7 +757,7 @@
     .gain4{
         background-color: rgb(13, 5, 20);
         height: 9vh;
-        width: 21vw;
+        width: 20vw;
         border-radius: 100px;
         display: flex;
         flex-direction: column;
@@ -782,7 +782,7 @@
     }
     .fully{
         font-weight: 800;
-        font-size: 25px;
+        font-size: 22px;
         width: 70vw;
         display: flex;
         flex-direction: column;
@@ -791,9 +791,9 @@
     }
     .fully1{
         font-weight: bold;
-        font-size: 19px;
+        font-size: 17px;
         color: darkgray;
-        width: 85vw;
+        width: 75vw;
         text-align: center;
     }
     .fully2{
@@ -812,7 +812,7 @@
     .fully4{
         background-color: rgb(13, 5, 20);
         height: 9vh;
-        width: 21vw;
+        width: 20vw;
         border-radius: 100px;
         display: flex;
         flex-direction: column;
