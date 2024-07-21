@@ -473,10 +473,10 @@
 }
 @media screen and (max-width:950px) {
     .pro1{
-        height: 3vh;
+        height: 4vh;
         scale: 0;
         opacity: 0;
-        animation: pop 2s ease-in-out infinite;
+        animation: pop 3s ease-in-out infinite;
     }
     @keyframes pop{
         0%{
@@ -901,7 +901,7 @@
     }
     .foot{
         background-color: black;
-        height: 120vh;
+        height: 110vh;
         color: white;
     }
     .foot1{
@@ -1002,7 +1002,7 @@
         align-items: center;
         justify-content: center;
         gap: 15px;
-        padding: 80px;
+        padding: 90px;
     }
     .hg1{
         height: 17vh;
